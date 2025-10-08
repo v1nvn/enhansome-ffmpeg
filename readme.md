@@ -48,12 +48,12 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Mobile
 
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,003 | 🐛 2,890 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,004 | 🐛 2,890 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
 * [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,939 | 🐛 64 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
 
 ## Tutorials
 
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 10,612 | 🐛 42 | 🌐 C | 📅 2025-02-01
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 10,613 | 🐛 42 | 🌐 C | 📅 2025-02-01
 * [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 472 | 🐛 2 | 📅 2025-09-18
 * [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook) ⭐ 79 | 🐛 1 | 📅 2025-07-15
 * [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
