@@ -53,7 +53,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Tutorials
 
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 10,627 | 🐛 43 | 🌐 C | 📅 2025-02-01
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 10,628 | 🐛 43 | 🌐 C | 📅 2025-02-01
 * [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 477 | 🐛 2 | 📅 2025-09-18
 * [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook) ⭐ 79 | 🐛 1 | 📅 2025-07-15
 * [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
