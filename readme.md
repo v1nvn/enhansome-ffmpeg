@@ -48,13 +48,13 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Mobile
 
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,028 | 🐛 2,890 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
-* [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,939 | 🐛 64 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,029 | 🐛 2,890 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
+* [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,940 | 🐛 64 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
 
 ## Tutorials
 
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 10,635 | 🐛 43 | 🌐 C | 📅 2025-02-01
-* [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 629 | 🐛 2 | 📅 2025-09-18
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 10,637 | 🐛 43 | 🌐 C | 📅 2025-02-01
+* [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 663 | 🐛 2 | 📅 2025-09-18
 * [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook) ⭐ 79 | 🐛 1 | 📅 2025-07-15
 * [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
 * [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
