@@ -29,9 +29,9 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 * [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) ⚠️ Archived - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
 * [editly](https://github.com/mifi/editly) ⭐ 5,190 | 🐛 77 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
-* [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,439 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
+* [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,440 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
 * [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,269 | 🐛 28 | 🌐 JavaScript | 📅 2023-12-28 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
-* [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 963 | 🐛 51 | 🌐 JavaScript | 📅 2025-09-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
+* [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 964 | 🐛 51 | 🌐 JavaScript | 📅 2025-09-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
 * [ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) ⭐ 157 | 🐛 6 | 🌐 JavaScript | 📅 2018-08-09 - Generates an attractive image strip or GIF preview from a video.
 * [ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) ⭐ 64 | 🐛 8 | 🌐 JavaScript | 📅 2020-12-11 - Extracts screenshots from a video using FFmpeg.
 * [gif-extract-frames](https://github.com/transitive-bullshit/gif-extract-frames) ⭐ 32 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-11 - Extracts frames from GIFs including inter-frame coalescing.
@@ -53,7 +53,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Tutorials
 
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 10,648 | 🐛 43 | 🌐 C | 📅 2025-02-01
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 10,649 | 🐛 43 | 🌐 C | 📅 2025-02-01
 * [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 724 | 🐛 2 | 📅 2025-09-18
 * [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook) ⭐ 79 | 🐛 1 | 📅 2025-07-15
 * [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
